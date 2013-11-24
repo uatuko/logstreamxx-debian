@@ -1,0 +1,52 @@
+liblogstreamxx.so.0 liblogstreamxx0 #MINVER#
+ (c++)"logstreamxx::logexception::logexception(char const*)@Base" 0.1.0
+ (c++)"logstreamxx::logexception::logexception(char const*)@Base" 0.1.0
+ (c++)"logstreamxx::logexception::~logexception()@Base" 0.1.0
+ (c++)"logstreamxx::logexception::~logexception()@Base" 0.1.0
+ (c++)"logstreamxx::logexception::~logexception()@Base" 0.1.0
+ (c++)"logstreamxx::logstreambuf::setlogmask(int)@Base" 0.1.0
+ (c++)"logstreamxx::logstreambuf::sync()@Base" 0.1.0
+ (c++)"logstreamxx::logstreambuf::flush()@Base" 0.1.0
+ (arch=any-amd64|c++)"logstreamxx::logstreambuf::setbuf(char*, long)@Base" 0.1.0
+ (arch=any-i386|c++)"logstreamxx::logstreambuf::setbuf(char*, int)@Base" 0.1.0
+ (c++)"logstreamxx::logstreambuf::lprefix(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)@Base" 0.1.0
+ (c++)"logstreamxx::logstreambuf::init_buf()@Base" 0.1.0
+ (c++)"logstreamxx::logstreambuf::overflow(int)@Base" 0.1.0
+ (c++)"logstreamxx::logstreambuf::wlprefix()@Base" 0.1.0
+ (c++)"logstreamxx::logstreambuf::lpriority(logstreamxx::priority::log_priority_t const&)@Base" 0.1.0
+ (c++)"logstreamxx::logstreambuf::logstreambuf(int)@Base" 0.1.0
+ (c++)"logstreamxx::logstreambuf::logstreambuf()@Base" 0.1.0
+ (c++)"logstreamxx::logstreambuf::logstreambuf(int)@Base" 0.1.0
+ (c++)"logstreamxx::logstreambuf::logstreambuf()@Base" 0.1.0
+ (c++)"logstreamxx::logstreambuf::~logstreambuf()@Base" 0.1.0
+ (c++)"logstreamxx::logstreambuf::~logstreambuf()@Base" 0.1.0
+ (c++)"logstreamxx::logstreambuf::~logstreambuf()@Base" 0.1.0
+ (c++)"logstreamxx::logstream::loglevel(logstreamxx::priority::log_priority_t const&)@Base" 0.1.0
+ (c++)"logstreamxx::logstream::logprefix(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)@Base" 0.1.0
+ (c++)"logstreamxx::logstream::logstream(char const*, bool, unsigned int)@Base" 0.1.0
+ (c++)"logstreamxx::logstream::logstream()@Base" 0.1.0
+ (c++)"logstreamxx::logstream::logstream(char const*, bool, unsigned int)@Base" 0.1.0
+ (c++)"logstreamxx::logstream::logstream()@Base" 0.1.0
+ (c++)"logstreamxx::logstream::~logstream()@Base" 0.1.0
+ (c++)"logstreamxx::logstream::~logstream()@Base" 0.1.0
+ (c++)"logstreamxx::logstream::~logstream()@Base" 0.1.0
+ (c++)"logstreamxx::logstream::operator<<(logstreamxx::priority::log_priority_t const&)@Base" 0.1.0
+ (c++)"logstreamxx::logexception::what() const@Base" 0.1.0
+ (c++)"logstreamxx::logstreambuf::lstamp() const@Base" 0.1.0
+ (c++)"char* std::basic_string<char, std::char_traits<char>, std::allocator<char> >::_S_construct<char*>(char*, char*, std::allocator<char> const&, std::forward_iterator_tag)@Base" 0.1.0
+ (c++)"std::basic_stringbuf<char, std::char_traits<char>, std::allocator<char> >::~basic_stringbuf()@Base" 0.1.0
+ (c++)"std::basic_stringbuf<char, std::char_traits<char>, std::allocator<char> >::~basic_stringbuf()@Base" 0.1.0
+ (c++)"std::basic_stringbuf<char, std::char_traits<char>, std::allocator<char> >::~basic_stringbuf()@Base" 0.1.0
+ (c++)"typeinfo for logstreamxx::logexception@Base" 0.1.0
+ (c++)"typeinfo for logstreamxx::logstreambuf@Base" 0.1.0
+ (c++)"typeinfo for logstreamxx::logstream@Base" 0.1.0
+ (c++)"typeinfo name for logstreamxx::logexception@Base" 0.1.0
+ (c++)"typeinfo name for logstreamxx::logstreambuf@Base" 0.1.0
+ (c++)"typeinfo name for logstreamxx::logstream@Base" 0.1.0
+ (c++)"VTT for logstreamxx::logstream@Base" 0.1.0
+ (c++)"vtable for logstreamxx::logexception@Base" 0.1.0
+ (c++)"vtable for logstreamxx::logstreambuf@Base" 0.1.0
+ (c++)"vtable for logstreamxx::logstream@Base" 0.1.0
+ (c++)"virtual thunk to logstreamxx::logstream::~logstream()@Base" 0.1.0
+ (c++)"virtual thunk to logstreamxx::logstream::~logstream()@Base" 0.1.0
+ (c++)"logstreamxx::priority::text(logstreamxx::priority::log_priority_t const&)::priority_name@Base" 0.1.0

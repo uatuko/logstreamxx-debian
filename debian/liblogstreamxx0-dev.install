@@ -1,0 +1,4 @@
+/usr/include/logstreamxx
+/usr/lib/*/liblogstreamxx.a
+/usr/lib/*/liblogstreamxx.so
+/usr/lib/*/pkgconfig/logstreamxx.pc
